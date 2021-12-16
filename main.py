@@ -7,6 +7,9 @@ from pyzbar.pyzbar import decode
 import time
 import threading
 
+##
+# @author Henry Glenn
+# 
 
 class KVCApp:
     def __init__(self):
