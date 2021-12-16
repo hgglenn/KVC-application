@@ -9,7 +9,7 @@ import threading
 
 ##
 # @author Henry Glenn
-# 
+# The purpose of this program is to create and read QR code package labels.
 
 class KVCApp:
     def __init__(self):
